@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">RingApp</string>
+    <string name="enter_login">Введите ваш логин</string>
+    <string name="enter_password">Введите ваш пароль</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="auth">Авторизация</string>
+    <string name="enter">Войти</string>
+    <string name="register_advice">Если у вас нет аккаунта, то вы можете зарегистрироваться</string>
+    <string name="create_login">Придумайте Ваш логин</string>
+    <string name="create_password">Придумайте Ваш пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="Client">Клиент</string>
+    <string name="Driver">Водитель</string>
+    <string name="commit">Принять</string>
+    <string name="SendNotify">Передавать уведомления о нажатии на звонок</string>
+    <string name="SendRing">Производить звук звонка при нажатии</string>
 </resources>
